@@ -1,0 +1,340 @@
+
+9/16/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    Worked on Proposal
+    Mockups
+    getting github repository set up
+    Database design
+
+2) To do until next Scrum:
+    start creating client-side skeleton
+
+3) Need Assistance / figure things out
+    So far so good
+
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    Worked on Routes
+    Creating database through sequelize
+
+2) To do until next Scrum:
+    Finish server-side routes
+
+3) Need Assistance / figure things out
+    So far so good
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Worked on proposal, Database design, creating database through sequelize
+
+2) To do until next Scrum:
+    Login features
+
+3) Need Assistance / figure things out
+    So far so good
+
+
+
+9/18/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+DONE:
+    Navbar finished
+    CSS Bootstrap design decided
+    Homepage started
+
+2) To do until next Scrum:
+    Finish Homepage
+    
+
+3) Need Assistance / figure things out
+    Fix merges
+    Watch ep. 17 of Pedro's tutorial
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+DONE:
+    Validation for All API server-side
+    All API finished, might need revising in the future
+2) To do until next Scrum:
+    Composers Page
+    Pieces by Composers Page
+
+3) Need Assistance / figure things out
+    So far so good
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Login/Registration done with some errors that needs fixing
+
+2) To do until next Scrum:
+    Profile Page
+    Finish Registration (working through errors)
+
+3) Need Assistance / figure things out
+    Watch ep. 17 of Pedro's tutorial
+
+
+9/19/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    Homepage, changed navbar logic
+
+2) To do until next Scrum:
+    implement MP3 player
+
+3) Need Assistance / figure things out
+    Navbar problems
+    How to pass object to another file
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    DONE: Composers, Pieces, Individual Pieces
+
+2) To do until next Scrum:
+    Link files to S3
+    Implement upload/download
+
+3) Need Assistance / figure things out
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Bugfixing login
+2) To do until next Scrum:
+    Profile page, finish bugfixing login
+3) Need Assistance / figure things out
+
+
+9/20/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    MIDI Plugin
+    Homepage
+    CSS base and design
+    
+
+2) To do until next Scrum:
+    PDF Viewer in-browser to implement into individual pieces page
+    mp3 player in-browser to implement into individual pieces page
+    CSS for other pages
+
+3) Need Assistance / figure things out
+
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    Set up AWS Account to:
+    Upload files to AWS S3
+
+
+2) To do until next Scrum:
+    Create page for file upload
+    CRUD for files, composers, pieces
+
+3) Need Assistance / figure things out
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Admin experiments
+2) To do until next Scrum:
+    Admin (in a different way)
+    Registration/Login functionality
+
+3) Need Assistance / figure things out
+
+
+9/21/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    CSS, updated MIDI plugin
+
+2) To do until next Scrum:
+    Searchbar, finish PDF viewer, mp3 player
+
+3) Need Assistance / figure things out
+
+
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    Lists of all tables
+    Admin CRUD
+
+2) To do until next Scrum:
+    Finish admin CRUD
+
+3) Need Assistance / figure things out
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Research protected routes
+
+2) To do until next Scrum:
+    REGEX validation for admin, protected routes
+    
+3) Need Assistance / figure things out
+
+
+9/22/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    Search bar not done
+
+    PDF viewer, mp3 player integrated into Files page
+
+2) To do until next Scrum:
+    Search bar
+    UUID for S3 upload
+
+3) Need Assistance / figure things out
+    Protected Routes
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    All CRUD finished
+
+2) To do until next Scrum:
+    Protected Routes
+    UUID for S3 upload
+
+3) Need Assistance / figure things out
+    Protected Routes
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Protected Routes base
+
+2) To do until next Scrum:
+    Update Trello User Stories
+    Stripe
+
+3) Need Assistance / figure things out
+    Protected Routes
+
+9/23/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    Searchbar Functionality
+2) To do until next Scrum:
+    bugfixing
+    Work on deployment to AWS
+
+3) Need Assistance / figure things out
+
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    Redesigned database and CRUD
+    UUID for S3
+    Fixed protected routes problem
+    Upload finished
+
+2) To do until next Scrum:
+    Protect routes to Files and Donations page
+    Profile page for User
+    Statistics for files in admin section
+
+3) Need Assistance / figure things out
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Donations page
+    Stripe functionality
+
+2) To do until next Scrum:
+    Implements receipts from Stripe
+
+3) Need Assistance / figure things out
+
+9/24/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    
+
+2) To do until next Scrum:
+    Update CreateFiles.js
+    bugfixing
+    (Research deployment to AWS)
+    Trello
+
+3) Need Assistance / figure things out
+
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    Protected routes for files, users
+    Upon login returning to the same page
+    Profile page
+
+2) To do until next Scrum:
+    Statistics page
+    (maybe) repair create file page
+
+3) Need Assistance / figure things out
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Alpha testing done on Stripe
+
+2) To do until next Scrum:
+    Reword Stripe code
+
+3) Need Assistance / figure things out
+
+
+9/25/22
+CAELAN:
+1) Done / Not done since Last Scrum:
+    Added security server-side for admins
+
+2) To do until next Scrum:
+    Deploy to AWS
+    Bugfixing
+    CSS and fill website
+
+3) Need Assistance / figure things out
+
+
+VLAD:
+1) Done / Not done since Last Scrum:
+    Statistics page
+    Contact Us page
+    Sending emails through contact us page
+
+2) To do until next Scrum:
+    Deploy to AWS
+    Bugfixing
+
+3) Need Assistance / figure things out
+
+
+EDGAR:
+1) Done / Not done since Last Scrum:
+    Updated Donations page
+    Updated Stripe functionality
+
+2) To do until next Scrum:
+    Deploy to AWS
+    Bugfixing
+
+3) Need Assistance / figure things out
+
+
+
